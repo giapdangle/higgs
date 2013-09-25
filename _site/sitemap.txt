@@ -1,0 +1,13 @@
+
+http://higgs.io/atom.xml
+http://higgs.io/pages.html
+http://higgs.io/tags.html
+http://higgs.io/sitemap.txt
+http://higgs.io/rss.xml
+http://higgs.io/archive.html
+http://higgs.io/categories.html
+http://higgs.io/index.html
+http://higgs.io/about.html
+
+http://higgs.io/2013/09/25/hello-world
+http://higgs.io/lessons/2011/12/29/jekyll-introduction
